@@ -1,0 +1,85 @@
+[System]
+Name='Condición_Vía_FIS'
+Type='mamdani'
+Version=2.0
+NumInputs=4
+NumOutputs=2
+NumRules=23
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='FlujoVehicular'
+Range=[0 100]
+NumMFs=3
+MF1='Bajo':'trapmf',[0 0 10 20]
+MF2='Alto':'trapmf',[45 70 100 100]
+MF3='Medio':'trimf',[10 35 60]
+
+[Input2]
+Name='VelocidadPromedio'
+Range=[0 100]
+NumMFs=3
+MF1='Baja':'trapmf',[0 0 15 35]
+MF2='Alta':'trapmf',[50 70 100 100]
+MF3='Media':'trimf',[25 43 60]
+
+[Input3]
+Name='EstadoClima'
+Range=[0 10]
+NumMFs=3
+MF1='Pesimo':'trimf',[0 0 4]
+MF2='Regular':'trimf',[2.5 5 7.5]
+MF3='Excelente':'trimf',[6 10 10]
+
+[Input4]
+Name='NivelObstaculizacion'
+Range=[0 10]
+NumMFs=3
+MF1='Bajo':'trimf',[0 0 4]
+MF2='Medio':'trimf',[2 5 8]
+MF3='Alto':'trimf',[6 10 10]
+
+[Output1]
+Name='NivelCongestión'
+Range=[0 10]
+NumMFs=3
+MF1='Bajo':'trapmf',[0 0 2 4]
+MF2='Alto':'trapmf',[6 8 10 10]
+MF3='Medio':'trimf',[3 5 7]
+
+[Output2]
+Name='PorcentajeTiempoOptimo'
+Range=[50 200]
+NumMFs=3
+MF1='Excelente':'trapmf',[50 50 70 90]
+MF2='Pesimo':'trapmf',[110 130 200 200]
+MF3='Estandar':'trimf',[80 100 120]
+
+[Rules]
+1 1 0 0, 2 2 (1) : 1
+1 1 1 0, 2 2 (1) : 1
+1 1 1 3, 2 2 (1) : 1
+0 0 1 3, 2 2 (1) : 1
+2 2 0 0, 1 1 (1) : 1
+2 2 3 0, 1 1 (1) : 1
+2 2 3 1, 1 1 (1) : 1
+0 0 3 1, 1 1 (1) : 1
+1 2 0 0, 1 1 (1) : 1
+1 3 1 3, 1 3 (1) : 1
+1 3 2 2, 1 3 (1) : 1
+2 1 0 0, 2 3 (1) : 1
+2 3 3 1, 3 1 (1) : 1
+2 1 1 3, 2 2 (1) : 1
+3 3 2 2, 3 3 (1) : 1
+3 3 3 1, 3 3 (1) : 1
+3 3 1 3, 2 2 (1) : 1
+3 1 3 1, 3 3 (1) : 1
+3 1 1 3, 2 2 (1) : 1
+3 2 2 1, 1 1 (1) : 1
+3 2 1 2, 3 3 (1) : 1
+2 1 2 3, 2 2 (1) : 1
+3 3 3 3, 3 3 (1) : 1

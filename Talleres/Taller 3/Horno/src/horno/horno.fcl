@@ -1,0 +1,66 @@
+FUNCTION_BLOCK horno	// Definición de bloque
+
+// El único tipo de variable soportada es REAL
+
+// Definición de las variables de entrada
+VAR_INPUT				
+        humedad : REAL; RANGE := (0 .. 10);
+        intensidad : REAL; RANGE := (0 .. 10);
+        volumen : REAL; RANGE := (0 .. 10);
+        
+END_VAR
+
+// Definición de las variables de salida
+VAR_OUTPUT				
+        temperatura : REAL; RANGE := (165 .. 225);
+END_VAR
+
+// Fuzzificación de la variable de entrada 'servicio'
+FUZZIFY humedad
+        TERM baja := (0,0) (0,1) (2,1) (4.5,0); 
+        TERM media := (2,0) (4.5,1) (5.5,1) (8,0);
+        TERM alta := (5.5,0) (8,1) (10,1) (10,0);
+END_FUZZIFY
+
+// Fuzzificación de la variable de entrada 'comida'
+FUZZIFY intensidad
+        TERM baja := (0,0) (0,1) (8,0);
+        TERM alta := (4,0) (10,1) (10,0);
+END_FUZZIFY
+
+FUZZIFY volumen
+        TERM pequeno := trape 0 0 2 4;
+        TERM mediano := trape 2 4 6 8;
+        TERM grande := trape 6 8 10 10;
+END_FUZZIFY
+
+// Defuzzificación de la variable de salida 'propina'
+DEFUZZIFY temperatura
+        TERM baja := gauss 165 8; 
+        TERM media := gauss 195 4;
+        TERM alta := gauss 225 8;
+
+        METHOD : COG;		// Usa el metodo de 'Centro de Gravedad'
+        DEFAULT := 195;		// Valor por defecto si ninguna regla activa el defuzzificador
+END_DEFUZZIFY
+
+
+// Reglas de inferencia
+RULEBLOCK No1
+        AND : MIN;	// Usa el 'mín' para el 'AND' y por defecto el 'máx' para el 'OR' (operador difuso).
+        ACT : MIN;	// Usa el metodo 'min' para la activación/implicación (trunca)
+        ACCU : MAX;	// Usa el 'max' para la acumulación/agregación
+
+        RULE 1 : IF (humedad IS alta) AND ((intensidad IS alta) AND (volumen IS grande)) THEN temperatura IS alta;
+        RULE 2 : IF (humedad IS baja) AND ((intensidad IS baja) AND (volumen IS pequeno)) THEN temperatura IS baja; 
+        RULE 3 : IF (humedad IS media) AND (volumen IS mediano) THEN temperatura IS media;
+        RULE 4 : IF (intensidad IS baja) OR (volumen IS mediano) THEN temperatura IS media;
+        RULE 5 : IF (intensidad IS alta) AND (volumen IS grande) THEN temperatura IS alta;
+        RULE 6 : IF (intensidad IS baja) AND (volumen IS pequeno) THEN temperatura IS baja;
+        RULE 7 : IF (humedad IS alta) AND (intensidad IS baja) THEN temperatura IS media;
+
+//      RULE N : IF (var1 IS a) AND ((var2 IS b) AND ((var3 IS c) AND (var4 IS d)))
+//      THEN salida1 IS x, salida2 IS y;
+END_RULEBLOCK
+
+END_FUNCTION_BLOCK

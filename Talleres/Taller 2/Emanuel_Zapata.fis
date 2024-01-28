@@ -1,0 +1,52 @@
+[System]
+Name='Emanuel_Zapata'
+Type='mamdani'
+Version=2.0
+NumInputs=3
+NumOutputs=1
+NumRules=7
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='Humedad'
+Range=[0 10]
+NumMFs=3
+MF1='Baja':'trapmf',[0 0 2 4.5]
+MF2='Media':'trapmf',[0.5 4.5 5.5 9.5]
+MF3='Alta':'trapmf',[5.5 8 10 10]
+
+[Input2]
+Name='Intensidad_Marrón'
+Range=[0 10]
+NumMFs=2
+MF1='Baja':'trimf',[0 0 8]
+MF2='Alta':'trimf',[4 10 10]
+
+[Input3]
+Name='Volumen'
+Range=[0 10]
+NumMFs=3
+MF1='Pequeño':'trapmf',[0 0 2 4]
+MF2='Mediano':'trapmf',[1 4 6 9]
+MF3='Grande':'trapmf',[6 8 10 10]
+
+[Output1]
+Name='Temperatura'
+Range=[165 225]
+NumMFs=3
+MF1='Baja':'gaussmf',[8 165]
+MF2='Media':'gaussmf',[8 195]
+MF3='Alta':'gaussmf',[8 225]
+
+[Rules]
+3 2 3, 3 (1) : 1
+1 1 1, 1 (1) : 1
+2 0 2, 2 (1) : 1
+0 1 2, 2 (1) : 2
+0 2 3, 3 (1) : 1
+0 1 1, 1 (1) : 1
+3 1 0, 2 (1) : 1

@@ -1,0 +1,636 @@
+id,title,artist,mood,tempo,genre,artist_type,chart_date,length_sec,top,year_of_birth
+0,Small Town Throwdown,BRANTLEY GILBERT featuring JUSTIN MOORE & THOMAS RHETT,Brooding,Medium Tempo,Traditional,Male,20140628,191,0,1975
+1,Bang Bang,"JESSIE J, ARIANA GRANDE & NICKI MINAJ",Energizing,Medium Tempo,Pop,Female,20140816,368,0,1989
+2,Timber,PITBULL featuring KE$HA,Excited,Medium Tempo,Urban,Mixed,20140118,223,1,1993
+3,Sweater Weather,THE NEIGHBOURHOOD,Brooding,Medium Tempo,Alternative & Punk,Male,20140104,206,0,1989
+4,Automatic,MIRANDA LAMBERT,Yearning,Medium Tempo,Traditional,Female,20140301,232,0,0
+5,Where Is At (Yep Yep),DUSTIN LYNCH,Upbeat,Medium Tempo,Traditional,Male,20140531,219,0,1990
+6,Single Ladies (Put A Ring On It),BEYONCE,Cool,Slow Tempo,Urban,Female,20081213,43,1,1981
+7,Me And My Broken Heart,RIXTON,Urgent,Fast Tempo,Pop,Male,20140412,557,0,1973
+8,I Luh Ya Papi,JENNIFER LOPEZ featuring FRENCH MONTANA,Aggressive,Medium Tempo,Urban,Female,20140329,182,0,1969
+9,Chocolate,THE 1975,Yearning,Medium Tempo,Alternative & Punk,Male,20140208,347,0,0
+10,Fancy,IGGY AZALEA featuring CHARLI XCX,Energizing,Medium Tempo,Urban,Female,20140607,197,1,1974
+11,Take Me To Church,HOZIER,Sophisticated,Medium Tempo,Alternative & Punk,Male,20140830,223,0,0
+12,Confident,JUSTIN BIEBER featuring CHANCE THE RAPPER,Energizing,Fast Tempo,Pop,Male,20140215,258,0,1992
+13,V. 3005,CHILDISH GAMBINO,Defiant,Medium Tempo,Urban,Male,20140628,302,0,0
+14,Lifestyle,RICH GANG featuring YOUNG THUG & RICH HOMIE QUAN,Sensual,Medium Tempo,Urban,Female,20140802,182,0,1977
+15,Teenage Dream,KATY PERRY,Excited,Medium Tempo,Pop,Female,20100918,235,1,1984
+16,Hello Kitty,AVRIL LAVIGNE,Aggressive,Medium Tempo,Pop,Female,20140510,222,0,1984
+17,Underneath The Tree,KELLY CLARKSON,Yearning,Medium Tempo,Pop,Female,20140104,199,0,1985
+18,Know Yourself,DRAKE,Cool,Medium Tempo,Urban,Male,20150307,282,0,1986
+19,Drink A Beer,LUKE BRYAN,Empowering,Medium Tempo,Traditional,Male,20140104,242,0,1976
+20,Glory,COMMON & JOHN LEGEND,Sophisticated,Medium Tempo,Urban,Male,20150131,199,0,1985
+21,Anaconda,NICKI MINAJ,Defiant,Medium Tempo,Urban,Female,20140823,364,0,1988
+22,Don't Forget About Us,MARIAH CAREY,Sensual,Medium Tempo,Urban,Female,20051231,229,1,1970
+23,One More Night,MAROON 5,Energizing,Medium Tempo,Pop,Male,20120929,314,1,1989
+24,Bobby Bitch,BOBBY SHMURDA,Defiant,Medium Tempo,Urban,Male,20141101,315,0,1979
+25,Elastic Heart,SIA,Excited,Medium Tempo,Alternative & Punk,Female,20150124,250,0,1985
+26,Thriller,MICHAEL JACKSON,Energizing,Medium Tempo,Urban,Male,20141115,229,0,1958
+27,Doin' What She Likes,BLAKE SHELTON,Empowering,Medium Tempo,Traditional,Male,20140201,195,0,0
+28,That's My Kind Of Night,LUKE BRYAN,Gritty,Medium Tempo,Traditional,Male,20140104,285,0,1976
+29,Slow Motion,JUVENILE featuring SOULJA SLIM,Cool,Medium Tempo,Urban,Male,20040807,235,1,1982
+30,Velvet,CHRIS JAMISON,Cool,Slow Tempo,Pop,Male,20150103,239,0,1994
+31,Take Your Time,SAM HUNT,Yearning,Medium Tempo,Traditional,Male,20150117,197,0,1984
+32,No Mediocre,T.I. featuring IGGY AZALEA,Defiant,Medium Tempo,Urban,Mixed,20140705,197,0,1988
+33,Something In The Water,CARRIE UNDERWOOD,Romantic,Medium Tempo,Traditional,Female,20141018,184,0,0
+34,Fireball,PITBULL featuring JOHN RYAN,Excited,Medium Tempo,Urban,Male,20140823,289,0,1981
+35,Blessings,BIG SEAN featuring DRAKE,Defiant,Medium Tempo,Urban,Male,20150221,250,0,1986
+36,Work,IGGY AZALEA,Energizing,Fast Tempo,Pop,Female,20140517,258,0,0
+37,Post To Be,OMARION featuring CHRIS BROWN & JHENE AIKO,Cool,Slow Tempo,Urban,Mixed,20150124,143,0,0
+38,Take Me Home,CASH CASH featuring BEBE REXHA,Romantic,Medium Tempo,Traditional,Male,20140201,271,0,0
+39,Tuesday,I LOVE MAKONNEN featuring DRAKE,Brooding,Medium Tempo,Alternative & Punk,Male,20141011,234,0,1988
+40,Bad Day,DANIEL POWTER,Empowering,Medium Tempo,Pop,Male,20060408,252,1,1971
+41,Roar,KATY PERRY,Yearning,Medium Tempo,Pop,Female,20130914,277,1,1986
+42,Somebody,NATALIE LA ROSE featuring JEREMIH,Sensual,Medium Tempo,Pop,Mixed,20150207,243,0,1987
+43,West Coast,LANA DEL REY,Yearning,Medium Tempo,Electronica,Female,20140503,216,0,1981
+44,Nothin' On You,B.O.B featuring BRUNO MARS,Rowdy,Medium Tempo,Urban,Male,20100501,131,1,1985
+45,Baby Don't Lie,GWEN STEFANI,Cool,Medium Tempo,Pop,Female,20141108,1619,0,1969
+46,Gonna Know We Were Here,JASON ALDEAN,Yearning,Medium Tempo,Traditional,Male,20141004,233,0,1977
+47,Harlem Shake,BAAUER,Energizing,Fast Tempo,Electronica,Male,20130302,169,1,1988
+48,Main Chick,KID INK featuring CHRIS BROWN,Defiant,Medium Tempo,Urban,Male,20140531,203,0,1988
+49,We Belong Together,MARIAH CAREY,Sensual,Medium Tempo,Urban,Female,20050604,17,1,1987
+50,No Flex Zone!!,RAE SREMMURD,Defiant,Medium Tempo,Urban,Male,20140816,271,0,1995
+51,Break Your Heart,TAIO CRUZ featuring LUDACRIS,Excited,Medium Tempo,Urban,Male,20100320,233,1,1985
+52,The Big Bang,KATY TIZ,Urgent,Medium Tempo,Other,Mixed,20140517,314,0,0
+53,Keep Your Money,EMPIRE CAST featuring JUSSIE SMOLLETT,Defiant,Medium Tempo,Soundtrack,Mixed,20150228,244,0,1974
+54,Hot Boy,BOBBY SHMURDA,Excited,Fast Tempo,Pop,Mixed,20140816,263,0,0
+55,Gas Pedal,SAGE THE GEMINI featuring IAMSU,Other,Slow Tempo,Urban,Male,20140104,243,0,1974
+56,Roar,KATY PERRY,Yearning,Medium Tempo,Pop,Female,20140104,220,0,1984
+57,Budapest,GEORGE EZRA,Fiery,Medium Tempo,Alternative & Punk,Male,20150214,216,0,0
+58,We Might Be Dead By Tomorrow,SOKO,Sentimental,Slow Tempo,Alternative & Punk,Female,20140329,205,0,1988
+59,Only,"NICKI MINAJ featuring DRAKE, LIL WAYNE & CHRIS BROWN",Cool,Medium Tempo,Urban,Mixed,20141115,185,0,1985
+60,All Of Me,JOHN LEGEND,Sophisticated,Slow Tempo,Urban,Male,20140517,308,1,1978
+61,I Bet,CIARA,Sensual,Medium Tempo,Urban,Female,20150214,197,0,1987
+62,Meanwhile Back At Mama's,TIM McGRAW featuring FAITH HILL,Yearning,Medium Tempo,Traditional,Mixed,20140614,259,0,0
+63,This Is How We Roll,FLORIDA GEORGIA LINE featuring LUKE BRYAN,Empowering,Medium Tempo,Traditional,Male,20140301,367,0,1987
+64,Stolen Dance,MILKY CHANCE,Cool,Medium Tempo,Alternative & Punk,Male,20140809,208,0,0
+65,Earned It (Fifty Shades Of Grey),THE WEEKND,Sophisticated,Medium Tempo,Urban,Male,20150110,261,0,1981
+66,Heartbeat Song,KELLY CLARKSON,Sophisticated,Medium Tempo,Pop,Female,20150131,204,0,0
+67,Touch My Body,MARIAH CAREY,Sensual,Slow Tempo,Urban,Female,20080412,260,1,1970
+68,Let Me Love You,MARIO WINANS,Sensual,Medium Tempo,Urban,Male,20050101,308,1,1974
+69,Invisible,HUNTER HAYES,Empowering,Slow Tempo,Traditional,Male,20140208,223,0,1986
+70,Sweet Little Somethin',JASON ALDEAN,Brooding,Medium Tempo,Traditional,Male,20140920,262,0,1979
+71,Night Changes,ONE DIRECTION,Empowering,Medium Tempo,Pop,Male,20141206,213,0,1994
+72,Style,TAYLOR SWIFT,Yearning,Medium Tempo,Pop,Female,20141115,0,0,1982
+73,I Have Nothing,TESSANNE CHIN,Sentimental,Slow Tempo,Alternative & Punk,Mixed,20140104,4496,0,1986
+74,Chandelier,SIA,Excited,Medium Tempo,Alternative & Punk,Female,20140524,119,0,1981
+75,Empire State Of Mind,JAY-Z & ALICIA KEYS,Energizing,Medium Tempo,Urban,Mixed,20091128,110,1,1981
+76,10 Bands,DRAKE,Cool,Medium Tempo,Urban,Male,20150228,304,0,1986
+77,Raise Your Glass,P!NK,Excited,Medium Tempo,Pop,Female,20101211,232,1,1988
+78,Neon Lights,DEMI LOVATO,Urgent,Medium Tempo,Pop,Female,20140111,372,0,1992
+79,Anything Goes,FLORIDA GEORGIA LINE,Rowdy,Medium Tempo,Rock,Male,20141011,226,0,1987
+80,Umbrella,RIHANNA featuring JAY-Z,Energizing,Medium Tempo,Urban,Mixed,20070609,0,1,1988
+81,Shut Up + Dance,WALK THE MOON,Defiant,Medium Tempo,Alternative & Punk,Male,20141122,0,0,1982
+82,Sunny And 75,JOE NICHOLS,Yearning,Medium Tempo,Traditional,Male,20140104,300,0,1970
+83,Happy,PHARRELL WILLIAMS,Energizing,Medium Tempo,Pop,Male,20140308,222,1,1985
+84,Two Night Town,JASON ALDEAN,Empowering,Medium Tempo,Traditional,Male,20140927,0,0,0
+85,Marry Me,JASON DERULO,Excited,Medium Tempo,Pop,Male,20140104,279,0,1979
+86,Cool Kids,ECHOSMITH,Yearning,Medium Tempo,Alternative & Punk,Mixed,20140726,331,0,1981
+87,07-Nov,BEYONCE,Energizing,Fast Tempo,Urban,Female,20150307,217,0,1981
+88,Best Friends,SOPHIA GRACE,Empowering,Medium Tempo,Urban,Female,20150124,230,0,1977
+89,Bleeding Love,LEONA LEWIS,Defiant,Medium Tempo,Urban,Female,20080405,257,1,1985
+90,Birthday,KATY PERRY,Excited,Medium Tempo,Pop,Female,20140426,278,0,1975
+91,Walk Thru,RICH HOMIE QUAN featuring PROBLEM,Sensual,Slow Tempo,Urban,Male,20140906,242,0,1990
+92,Santa Tell Me,ARIANA GRANDE,Sensual,Medium Tempo,Pop,Female,20141213,247,0,1993
+93,Let It Be,TESSANNE CHIN & ADAM LEVINE,Empowering,Medium Tempo,Rock,Male,20140104,267,0,1988
+94,Applause,LADY GAGA,Urgent,Fast Tempo,Pop,Female,20140104,210,0,1985
+95,Rude,MAGIC!,Sensual,Medium Tempo,Other,Male,20140726,228,1,1981
+96,Rude Boy,RIHANNA,Urgent,Fast Tempo,Urban,Female,20100327,259,1,1984
+97,Sing,ED SHEERAN,Urgent,Medium Tempo,Pop,Male,20140426,382,0,1971
+98,Drunk Last Night,ELI YOUNG BAND,Yearning,Medium Tempo,Traditional,Male,20140104,263,0,1973
+99,A Little Too Much,SHAWN MENDES,Empowering,Medium Tempo,Pop,Male,20150221,225,0,1975
+100,Day Drinking,LITTLE BIG TOWN,Urgent,Medium Tempo,Traditional,Mixed,20140621,329,0,1971
+101,Yeah,JOE NICHOLS,Yearning,Medium Tempo,Traditional,Male,20140510,0,0,1981
+102,So Sick,NE-YO,Sensual,Slow Tempo,Urban,Male,20060318,146,1,1978
+103,Alone Together,FALL OUT BOY,Defiant,Medium Tempo,Alternative & Punk,Male,20140104,333,0,1981
+104,Thinking Out Loud,ED SHEERAN,Empowering,Slow Tempo,Pop,Male,20141025,319,0,1973
+105,No Role Modelz,J. COLE,Cool,Medium Tempo,Urban,Male,20141227,323,0,1981
+106,My Life Would Suck Without You,KELLY CLARKSON,Yearning,Medium Tempo,Pop,Female,20090207,223,1,1977
+107,Close Your Eyes,PARMALEE,Empowering,Medium Tempo,Traditional,Male,20141011,272,0,1981
+108,You And Your Friends,WIZ KHALIFA featuring SNOOP DOGG & TY DOLLAR $IGN,Cool,Slow Tempo,Urban,Male,20141004,0,0,1975
+109,Word Crimes,WEIRD AL YANKOVIC,Excited,Medium Tempo,Other,Male,20140802,568,0,1978
+110,Worth It,FIFTH HARMONY featuring KID INK,Energizing,Medium Tempo,Pop,Mixed,20150207,245,0,1976
+111,Roller Coaster,LUKE BRYAN,Yearning,Medium Tempo,Traditional,Male,20140802,210,0,1977
+112,Lost Without U,CHRIS JAMISON & ADAM LEVINE,Sensual,Medium Tempo,Pop,Male,20150103,4150,0,1979
+113,Only One,KANYE WEST featuring PAUL McCARTNEY,Urgent,Fast Tempo,Rock,Mixed,20150117,208,0,1988
+114,Out The Speakers,A-TRAK + MILO & OTIS featuring RICH KIDZ,Aggressive,Medium Tempo,Electronica,Male,20150221,207,0,1971
+115,Midnight Memories,ONE DIRECTION,Urgent,Medium Tempo,Pop,Male,20140215,188,0,1994
+116,Drop It Like It's Hot,SNOOP DOGG,Cool,Slow Tempo,Urban,Male,20041211,115,1,1982
+117,Don't,ED SHEERAN,Cool,Slow Tempo,Pop,Male,20140628,180,0,1977
+118,Homegrown,ZAC BROWN BAND,Empowering,Medium Tempo,Alternative & Punk,Male,20150131,215,0,1981
+119,Let It Go,DEMI LOVATO,Empowering,Medium Tempo,Pop,Female,20140104,232,0,1992
+120,Set Fire To The Rain,ADELE,Yearning,Medium Tempo,Pop,Female,20120204,152,1,1988
+121,Gold Digger,KANYE WEST featuring JAMIE FOXX,Aggressive,Medium Tempo,Urban,Male,20050917,271,1,1970
+122,Don't Matter,AKON,Sensual,Medium Tempo,Urban,Male,20070407,246,1,1973
+123,Beating Heart,ELLIE GOULDING,Yearning,Medium Tempo,Electronica,Female,20140405,198,0,1977
+124,Studio,SCHOOLBOY Q featuring BJ THE CHICAGO KID,Sensual,Medium Tempo,Urban,Male,20140621,270,0,1983
+125,3,BRITNEY SPEARS,Energizing,Fast Tempo,Pop,Female,20091024,205,1,1970
+126,Slow Me Down,SARA EVANS,Upbeat,Medium Tempo,Traditional,Female,20140329,149,0,1969
+127,Counting Stars,ONEREPUBLIC,Urgent,Medium Tempo,Pop,Male,20140104,225,0,1979
+128,Blurred Lines,ROBIN THICKE featuring T.I. & PHARRELL,Energizing,Medium Tempo,Pop,Male,20140104,151,0,1977
+129,My Baby's Gor A Smile On Her Face,CRAIG WAYNE BOYD,Yearning,Medium Tempo,Traditional,Male,20150103,178,0,1978
+130,I Don't Dance,LEE BRICE,Upbeat,Medium Tempo,Other,Male,20140503,227,0,0
+131,Get Her Back,ROBIN THICKE,Easygoing,Medium Tempo,Pop,Male,20140712,182,0,0
+132,Whistle,FLO RIDA,Energizing,Medium Tempo,Urban,Male,20120825,198,1,1979
+133,I Kissed A Girl,KATY PERRY,Aggressive,Fast Tempo,Pop,Female,20080705,156,1,1984
+134,This Is How We Do,KATY PERRY,Energizing,Medium Tempo,Pop,Female,20140816,176,0,1984
+135,Habits (Stay High),TOVE LO,Sophisticated,Medium Tempo,Electronica,Female,20140614,0,0,0
+136,Animals,MARTIN GARRIX,Defiant,Fast Tempo,Alternative & Punk,Male,20140104,240,0,0
+137,Get Ur Freak On,"MISSY ""MISDEMEANOR"" ELLIOTT",Defiant,Medium Tempo,Urban,Female,20150221,175,0,0
+138,Bad Blood,BASTILLE,Excited,Fast Tempo,Alternative & Punk,Male,20140426,218,0,1973
+139,Give Me Back My Hometown,ERIC CHURCH,Empowering,Medium Tempo,Traditional,Male,20140125,239,0,1977
+140,Slow Jamz,TWISTA feat KANYE WEST & JAMIE FOXX,Yearning,Medium Tempo,Urban,Male,20040221,250,1,1973
+141,Fever,THE BLACK KEYS,Brooding,Medium Tempo,Alternative & Punk,Male,20140412,251,0,0
+142,My Baby's Guns N' Roses,BRANTLEY GILBERT,Empowering,Medium Tempo,Traditional,Male,20140517,270,0,1985
+143,Wonderland,TAYLOR SWIFT,Empowering,Medium Tempo,Pop,Female,20150307,252,0,1989
+144,Wasting All These Tears,CASSADEE POPE,Empowering,Slow Tempo,Traditional,Female,20140104,217,0,0
+145,I Won't Let You Down,OK GO,Energizing,Medium Tempo,Alternative & Punk,Male,20141115,0,0,0
+146,Hookah,TYGA featuring YOUNG THUG,Defiant,Medium Tempo,Urban,Male,20140830,253,0,0
+147,Kiss Me Kiss Me,5 SECONDS OF SUMMER,Stirring,Fast Tempo,Pop,Male,20140705,269,0,1996
+148,Somebody That I Used To Know,CHRISTINA GRIMMIE & ADAM LEVINE,Yearning,Medium Tempo,Pop,Mixed,20140607,220,0,0
+149,Give It To Me,TIMBALAND feat NELLY FURTADO & JUSTIN TIMBERLAKE,Energizing,Medium Tempo,Pop,Mixed,20070421,93,1,1972
+150,Grillz,"NELLY featuring PAUL WALL, ALI & GIPP",Cool,Medium Tempo,Urban,Male,20060121,701,1,1974
+151,London Bridge,FERGIE,Cool,Medium Tempo,Pop,Female,20060819,310,1,1975
+152,Centuries,FALL OUT BOY,Urgent,Medium Tempo,Alternative & Punk,Male,20140927,209,0,1984
+153,Unconditionally,KATY PERRY,Yearning,Medium Tempo,Pop,Female,20140104,241,0,1984
+154,Shell Shocked,"JUICY J, WIZ KHALIFA & TY DOLLA $IGN featuring KILL THE NOIS",Cool,Medium Tempo,Urban,Male,20140830,271,0,0
+155,Wet Dreamz,J. COLE,Cool,Medium Tempo,Urban,Male,20141227,300,0,1985
+156,Am I Wrong,NICO & VINZ,Yearning,Medium Tempo,Pop,Male,20140503,211,0,1990
+157,Down,JAY SEAN featuring LIL WAYNE,Cool,Medium Tempo,Urban,Male,20091017,223,1,1981
+158,She Knows,J. COLE featuring AMBER COFFMAN & THE CULTS,Aggressive,Medium Tempo,Urban,Mixed,20140125,224,0,1985
+159,The Days,AVICII,Yearning,Medium Tempo,Electronica,Male,20141025,240,0,1989
+160,Girls Chase Boys,INGRID MICHAELSON,Yearning,Medium Tempo,Pop,Female,20140426,234,0,1979
+161,Do I Make You Proud,TAYLOR HICKS,Empowering,Medium Tempo,Pop,Male,20060701,352,1,1976
+162,Na Na,TREY SONGZ,Sensual,Slow Tempo,Urban,Male,20140208,193,0,1984
+163,Sunshine & Whiskey,FRANKIE BALLARD,Empowering,Medium Tempo,Traditional,Male,20140726,233,0,0
+164,Odio,ROMEO SANTOS featuring DRAKE,Romantic,Medium Tempo,Traditional,Male,20140215,6743,0,1986
+165,Everything I Didn't Say,5 SECONDS OF SUMMER,Melancholy,Medium Tempo,Pop,Male,20140802,243,0,1996
+166,Maps,MAROON 5,Urgent,Medium Tempo,Pop,Male,20140705,203,0,1979
+167,Waves,MR. PROBZ,Urgent,Fast Tempo,Other,Male,20140906,249,0,0
+168,Someone Like You,ADELE,Sophisticated,Medium Tempo,Pop,Female,20110917,235,1,1988
+169,Life Of The Party,SHAWN MENDES,Empowering,Medium Tempo,Pop,Male,20140712,203,0,1999
+170,A Man Who Was Gonna Die Young,ERIC CHURCH,Sentimental,Slow Tempo,Traditional,Male,20140215,234,0,1977
+171,Hope You Get Lonely Tonight,COLE SWINDELL,Empowering,Medium Tempo,Traditional,Male,20140628,232,0,1983
+172,The Devil Is A Lie,RICK ROSS featuring JAY Z,Cool,Medium Tempo,Urban,Male,20140322,230,0,0
+173,River Bank,BRAD PAISLEY,Rowdy,Medium Tempo,Traditional,Male,20140524,191,0,1972
+174,The Hanging Tree,JAMES NEWTON HOWARD featuring JENNIFER LAWRENCE,Peaceful,Medium Tempo,Soundtrack,Mixed,20141213,235,0,0
+175,Grenade,BRUNO MARS,Brooding,Medium Tempo,Pop,Male,20110108,773,1,1985
+176,We Found Love,RIHANNA featuring CALVIN HARRIS,Excited,Medium Tempo,Pop,Female,20111112,74,1,1988
+177,Royals,LORDE,Cool,Medium Tempo,Electronica,Female,20140104,265,0,1996
+178,Collard Greens,SCHOOLBOY Q featuring KENDRICK LAMAR,Defiant,Medium Tempo,Urban,Male,20140208,298,0,0
+179,All About That Bass,MEGHAN TRAINOR,Cool,Medium Tempo,Pop,Female,20140920,228,1,1993
+180,Homegrown Honey,DARIUS RUCKER,Yearning,Medium Tempo,Traditional,Male,20141122,243,0,1966
+181,Little Red Wagon,MIRANDA LAMBERT,Yearning,Medium Tempo,Traditional,Female,20150228,252,0,1983
+182,This Is Why I'm Hot,MIMS,Cool,Medium Tempo,Urban,Male,20070310,288,1,1981
+183,Can't Stop Dancin',BECKY G,Sensual,Medium Tempo,Pop,Female,20150110,162,0,1997
+184,Burnin' Up,JESSIE J featuring 2 CHAINZ,Excited,Medium Tempo,Pop,Mixed,20141101,301,0,0
+185,Viva La Vida,COLDPLAY,Empowering,Medium Tempo,Alternative & Punk,Male,20080628,205,1,1977
+186,Outside,CALVIN HARRIS featuring ELLIE GOULDING,Yearning,Medium Tempo,Pop,Mixed,20141108,206,0,1984
+187,Take It On Back,CHASE BRYANT,Gritty,Medium Tempo,Traditional,Female,20150117,238,0,0
+188,Wake Up Lovin' You,CRAIG MORGAN,Urgent,Medium Tempo,Traditional,Male,20140510,270,0,1965
+189,Best Mistake,ARIANA GRANDE featuring BIG SEAN,Excited,Fast Tempo,Urban,Mixed,20140830,201,0,1994
+190,G.U.Y.,LADY GAGA,Urgent,Medium Tempo,Pop,Female,20140412,234,0,1986
+191,We Are One (Ole Ola) [The 2014 FIFA World Cup Official Song],PITBULL featuring JENNIFER LOPEZ & CLAUDIA LEITTE,Excited,Medium Tempo,Pop,Mixed,20140426,260,0,1979
+192,Sanctified,RICK ROSS featuring KANYE WEST & BIG SEAN,Defiant,Medium Tempo,Urban,Male,20140322,165,0,1976
+193,U Guessed It,OG MACO,Defiant,Medium Tempo,Urban,Male,20141018,276,0,0
+194,Cop Car,KEITH URBAN,Empowering,Slow Tempo,Traditional,Male,20140215,91,0,1967
+195,L.A.LOVE (la la),FERGIE,Sensual,Medium Tempo,Pop,Mixed,20141025,244,0,1975
+196,Born This Way,LADY GAGA,Excited,Medium Tempo,Pop,Female,20110226,26,1,1986
+197,Man Of The Year,SCHOOLBOY Q,Defiant,Medium Tempo,Urban,Male,20140208,258,0,0
+198,Love Me Again,JOHN NEWMAN,Defiant,Medium Tempo,Urban,Male,20140104,203,0,0
+199,Stay With Me,SAM SMITH,Yearning,Medium Tempo,Urban,Male,20140419,319,0,1992
+200,I Lived,ONEREPUBLIC,Empowering,Medium Tempo,Pop,Male,20141213,185,0,1979
+201,Partition,BEYONCE,Fiery,Medium Tempo,Soundtrack,Mixed,20140125,261,0,1981
+202,Talladega,ERIC CHURCH,Empowering,Medium Tempo,Traditional,Male,20141108,296,0,1977
+203,Sun Daze,FLORIDA GEORGIA LINE,Yearning,Medium Tempo,Traditional,Male,20141115,286,0,1987
+204,No Love,AUGUST ALSINA,Sensual,Medium Tempo,Urban,Male,20141004,224,0,0
+205,Lonely Eyes,CHRIS YOUNG,Empowering,Medium Tempo,Traditional,Male,20150103,167,0,1985
+206,Often,THE WEEKND,Sensual,Medium Tempo,Urban,Male,20141101,236,0,0
+207,The Monster,EMINEM featuring RIHANNA,Energizing,Medium Tempo,Urban,Mixed,20131221,259,1,1972
+208,Diamonds,RIHANNA,Urgent,Medium Tempo,Urban,Female,20121201,252,1,1988
+209,Bend Ova,LIL JON featuring TYGA,Aggressive,Medium Tempo,Urban,Male,20140927,333,0,0
+210,Dare (La La La),SHAKIRA,Energizing,Medium Tempo,Alternative & Punk,Mixed,20140607,0,0,1977
+211,Love More,CHRIS BROWN featuring NICKI MINAJ,Excited,Medium Tempo,Urban,Mixed,20140104,109,0,1989
+212,Promiscuous,NELLY FURTADO featuring TIMBALAND,Energizing,Medium Tempo,Pop,Mixed,20060708,189,1,1978
+213,Like A Cowboy,RANDY HOUSER,Empowering,Medium Tempo,Traditional,Male,20141220,340,0,1969
+214,Empire,SHAKIRA,Sensual,Medium Tempo,Electronica,Male,20140412,200,0,1977
+215,Womanizer,BRITNEY SPEARS,Energizing,Medium Tempo,Pop,Female,20081025,174,1,1981
+216,"Hold On, We're Going Home",DRAKE featuring MAJID JORDAN,Cool,Medium Tempo,Urban,Male,20140104,188,0,1986
+217,Sledgehammer,FIFTH HARMONY,Excited,Fast Tempo,Pop,Female,20141213,271,0,1993
+218,How To Love,CHRISTINA GRIMMIE,Energizing,Medium Tempo,Urban,Male,20140524,233,0,1994
+219,Perfect Storm,BRAD PAISLEY,Yearning,Medium Tempo,Traditional,Male,20141025,0,0,1972
+220,Go Hard Or Go Home,WIZ KHALIFA & IGGY AZALEA,Energizing,Medium Tempo,Urban,Male,20150307,233,0,0
+221,Cold One,ERIC CHURCH,Rowdy,Fast Tempo,Traditional,Male,20140823,270,0,1977
+222,Amnesia,5 SECONDS OF SUMMER,Peaceful,Medium Tempo,Pop,Male,20140719,205,0,1996
+223,I Can't Make You Love Me,JOSH KAUFMAN,Empowering,Medium Tempo,Rock,Female,20140524,270,0,0
+224,Drunk In Love,BEYONCE featuring JAY-Z,Energizing,Medium Tempo,Urban,Mixed,20140104,234,0,1981
+225,Handsome And Wealthy,MIGOS,Aggressive,Fast Tempo,Urban,Male,20141011,221,0,1991
+226,Goodnight Kiss,RANDY HOUSER,Empowering,Medium Tempo,Traditional,Male,20140125,363,0,1969
+227,Ride,SOMO,Sophisticated,Medium Tempo,Urban,Male,20140125,232,0,0
+228,Gorilla,BRUNO MARS,Urgent,Fast Tempo,Pop,Male,20140111,253,0,1985
+229,Who I Am With You,CHRIS YOUNG,Empowering,Medium Tempo,Traditional,Male,20140510,272,0,1985
+230,All About It,HOODIE ALLEN featuring ED SHEERAN,Cool,Medium Tempo,Pop,Male,20150124,268,0,1991
+231,Dear Future Husband,MEGHAN TRAINOR,Urgent,Fast Tempo,Pop,Female,20140927,253,0,1993
+232,No Tellin',DRAKE,Cool,Medium Tempo,Urban,Male,20150307,322,0,1986
+233,Who Do You Love?,YG featuring DRAKE,Cool,Medium Tempo,Urban,Male,20140329,238,0,1986
+234,The Old Rugged Cross,CRAIG WAYNE BOYDE,Easygoing,Medium Tempo,Other,Male,20141227,253,0,1978
+235,Wrecking Ball,MILEY CYRUS,Empowering,Medium Tempo,Pop,Female,20130928,196,1,1992
+236,Stockholm Syndrome,ONE DIRECTION,Yearning,Medium Tempo,Pop,Male,20141206,227,0,1994
+237,Delirious (Boneless),"STEVE AOKI, CHRIS LAKE & TUJAMO featuring KID INK",Defiant,Medium Tempo,Electronica,Male,20140906,214,0,0
+238,Irresistible,FALL OUT BOY,Defiant,Medium Tempo,Alternative & Punk,Male,20150124,2040,0,1984
+239,Dust,ELI YOUNG BAND,Empowering,Medium Tempo,Traditional,Male,20140726,186,0,0
+240,I Choose You,SARA BAREILLES,Yearning,Medium Tempo,Pop,Female,20140524,0,0,1979
+241,What We Ain't Got,JAKE OWEN,Sentimental,Slow Tempo,Traditional,Male,20150117,251,0,1981
+242,Wildest Dreams,TAYLOR SWIFT,Sensual,Medium Tempo,Pop,Female,20141115,225,0,1989
+243,I Walk The Line,CRAIG WAYNE BOYD,Melancholy,Medium Tempo,Traditional,Male,20141213,286,0,1978
+244,New Flame,CHRIS BROWN featuring USHER & RICK ROSS,Sensual,Medium Tempo,Urban,Male,20140719,286,0,1989
+245,#SELFIE,THE CHAINSMOKERS,Energizing,Medium Tempo,Electronica,Male,20140315,213,0,0
+246,Whatever She's Got,DAVID NAIL,Empowering,Medium Tempo,Traditional,Male,20140104,233,0,1979
+247,Hey There Delilah,PLAIN WHITE T'S,Yearning,Medium Tempo,Alternative & Punk,Male,20070728,187,1,1979
+248,Talking Body,TOVE LO,Energizing,Medium Tempo,Electronica,Female,20150214,211,0,0
+249,God Made Girls,RAELYNN,Yearning,Medium Tempo,Traditional,Female,20141108,236,0,1994
+250,Don't Stop,5 SECONDS OF SUMMER,Melancholy,Slow Tempo,Pop,Male,20140531,295,0,1996
+251,Throw Sum Mo,RAE SREMMURD featuring NICKI MINAJ & YOUNG THUG,Cool,Medium Tempo,Urban,Mixed,20150117,266,0,1995
+252,Whatcha Say,JASON DeRULO,Energizing,Medium Tempo,Pop,Male,20091114,358,1,1989
+253,Whiskey In My Water,TYLER FARR,Empowering,Medium Tempo,Traditional,Male,20140412,72,0,0
+254,You Sound Good To Me,LUCY HALE,Excited,Medium Tempo,Traditional,Female,20140125,140,0,1989
+255,White Walls,MACKLEMORE & RYAN LEWIS featuring SCHOOLBOY Q & HOLLIS,Cool,Medium Tempo,Urban,Male,20140104,343,0,1983
+256,We Are Never Ever Getting Back Together,TAYLOR SWIFT,Excited,Medium Tempo,Pop,Female,20120901,165,1,1989
+257,Made Me,SNOOTIE WILD featuring K CAMP,Excited,Fast Tempo,Urban,Male,20141108,317,0,0
+258,Imma Be,THE BLACK EYED PEAS,Defiant,Medium Tempo,Urban,Mixed,20100306,310,1,1975
+259,Thinking About You,CALVIN HARRIS featuring AYAH MARAR,Excited,Medium Tempo,Pop,Mixed,20140201,210,0,1984
+260,Human,CHRISTINA PERRI,Empowering,Slow Tempo,Pop,Female,20140222,232,0,0
+261,I See You,LUKE BRYAN,Yearning,Medium Tempo,Traditional,Male,20141213,241,0,1976
+262,The Worst,JHENE AIKO,Sensual,Slow Tempo,Urban,Female,20140222,226,0,0
+263,Stay The Night,ZEDD featuring HAYLEY WILLIAMS,Excited,Medium Tempo,Pop,Mixed,20140104,241,0,0
+264,Apparently,J. COLE,Sensual,Medium Tempo,Urban,Male,20150103,241,0,1985
+265,A Sky Full Of Stars,COLDPLAY,Brooding,Medium Tempo,Alternative & Punk,Male,20140517,239,0,1977
+266,Somethin' Bad,MIRANDA LAMBERT duet with CARRIE UNDERWOOD,Urgent,Medium Tempo,Traditional,Female,20140607,207,0,0
+267,Somebody That I Used To Know,GOTYE featuring KIMBRA,Energizing,Medium Tempo,Alternative & Punk,Mixed,20120428,182,1,1980
+268,You & I,ONE DIRECTION,Empowering,Medium Tempo,Pop,Male,20140503,203,0,1994
+269,Pompeii,BASTILLE,Defiant,Medium Tempo,Alternative & Punk,Male,20140104,264,0,0
+270,Make Me Wanna,THOMAS RHETT,Empowering,Medium Tempo,Traditional,Male,20141129,206,0,1990
+271,Truffle Butter,NICKI MINAJ featuring DRAKE & LIL WAYNE,Cool,Medium Tempo,Urban,Mixed,20150207,165,0,1982
+272,Don't Let Me Be Lonely,THE BAND PERRY,Empowering,Medium Tempo,Traditional,Mixed,20140104,202,0,1983
+273,"Touchin', Lovin'",TREY SONGZ featuring NICKI MINAJ,Cool,Medium Tempo,Urban,Mixed,20140920,227,0,0
+274,Errrbody,YO GOTTI,Cool,Medium Tempo,Urban,Male,20141025,277,0,0
+275,John Doe,B.O.B featuring PRISCILLA,Yearning,Medium Tempo,Urban,Mixed,20140412,199,0,0
+276,Where Do Broken Hearts Go,ONE DIRECTION,Empowering,Medium Tempo,Pop,Male,20141129,267,0,1994
+277,Can't Help Falling In Love,CHRISTINA GRIMMIE,Empowering,Medium Tempo,Pop,Female,20140607,230,0,1994
+278,SexyBack,JUSTIN TIMBERLAKE,Cool,Medium Tempo,Pop,Male,20060909,370,1,1981
+279,Girlfriend,AVRIL LAVIGNE,Urgent,Medium Tempo,Pop,Female,20070505,317,1,1984
+280,She Twerkin,CA$H OUT,Energizing,Medium Tempo,Urban,Male,20140712,250,0,0
+281,One,ED SHEERAN,Empowering,Slow Tempo,Pop,Male,20140531,209,0,1991
+282,About The Money,T.I. featuring YOUNG THUG,Cool,Medium Tempo,Urban,Male,20140823,0,0,1980
+283,Burnin' It Down,JASON ALDEAN,Romantic,Medium Tempo,Traditional,Male,20140809,327,0,1977
+284,Just Dance,LADY GAGA featuring COLBY O'DONIS,Excited,Medium Tempo,Pop,Mixed,20090117,222,1,1986
+285,Do What U Want,LADY GAGA featuring R. KELLY,Excited,Medium Tempo,Pop,Mixed,20140104,230,0,1986
+286,Dangerous,DAVID GUETTA featuring SAM MARTIN,Energizing,Medium Tempo,Urban,Male,20141108,0,0,1967
+287,Love Never Felt So Good,MICHAEL JACKSON & JUSTIN TIMBERLAKE,Energizing,Medium Tempo,Pop,Male,20140517,219,0,1981
+288,Chains,NICK JONAS,Defiant,Medium Tempo,Pop,Male,20150214,237,0,1992
+289,Goodies,CIARA & PETEY PABLO,Cool,Medium Tempo,Urban,Mixed,20040911,200,1,1985
+290,SOS,RIHANNA,Urgent,Fast Tempo,Urban,Female,20060513,234,1,1988
+291,Steal My Girl,ONE DIRECTION,Defiant,Medium Tempo,Pop,Male,20141018,290,0,1994
+292,Love Me Harder,ARIANA GRANDE & THE WEEKND,Excited,Fast Tempo,Pop,Mixed,20141025,189,0,1994
+293,Preach,DRAKE featuring PARTYNEXTDOOR,Defiant,Medium Tempo,Urban,Male,20150228,315,0,1986
+294,You're Beautiful,JAMES BLUNT,Empowering,Slow Tempo,Pop,Male,20060311,235,1,1974
+295,Work It,"MISSY ""MISDEMEANOR"" ELLIOTT",Energizing,Medium Tempo,Urban,Female,20150221,2836,0,1971
+296,The Language,DRAKE,Cool,Medium Tempo,Urban,Male,20140104,288,0,1986
+297,Adrenalina,WISIN featuring JENNIFER LOPEZ & RICKY MARTIN,Rowdy,Fast Tempo,Other,Male,20140322,276,0,0
+298,Dark Horse,KATY PERRY featuring JUICY J,Excited,Fast Tempo,Pop,Mixed,20140208,232,1,1984
+299,Love The Way You Lie,EMINEM featuring RIHANNA,Excited,Medium Tempo,Urban,Mixed,20100731,236,1,1981
+300,Not A Bad Thing,JUSTIN TIMBERLAKE,Empowering,Medium Tempo,Pop,Male,20140315,241,0,1981
+301,Only Girl (In The World),RIHANNA,Urgent,Medium Tempo,Urban,Female,20101204,252,1,1988
+302,Yeah,USHER feat LUDACRIS & LIL JON,Cool,Medium Tempo,Urban,Male,20040228,245,1,1978
+303,Little Dummer Boy,PENTATONIX,Gritty,Medium Tempo,Traditional,Male,20140104,283,0,1992
+304,24 Hours,TEEFLII featuring 2 CHAINZ,Sensual,Medium Tempo,Urban,Male,20140913,242,0,0
+305,I'm Not The Only One,SAM SMITH,Empowering,Medium Tempo,Urban,Male,20140621,217,0,1992
+306,Hotel,KID INK featuring CHRIS BROWN,Sensual,Medium Tempo,Urban,Male,20150221,195,0,0
+307,17 Again,BRANTLEY GILBERT,Empowering,Medium Tempo,Traditional,Male,20140524,171,0,1985
+308,What's My Name?,RIHANNA featuring DRAKE,Cool,Medium Tempo,Urban,Mixed,20101120,202,1,1988
+309,Lips Are Movin',MEGHAN TRAINOR,Excited,Fast Tempo,Pop,Female,20141108,230,0,1993
+310,i,KENDRICK LAMAR,Easygoing,Medium Tempo,Urban,Male,20141011,0,0,1987
+311,Wiggle,JASON DERULO featuring SNOOP DOGG,Fiery,Medium Tempo,Jazz,Male,20140517,232,0,0
+312,Uptown Funk!,MARK RONSON featuring BRUNO MARS,Rowdy,Medium Tempo,Pop,Male,20150117,262,1,1975
+313,Billie Jean,MICHAEL JACKSON,Stirring,Medium Tempo,Urban,Male,20140607,171,0,1958
+314,Friday Night,ERIC PASLAY,Empowering,Medium Tempo,Traditional,Mixed,20140104,245,0,1983
+315,I Luv This Shit,AUGUST ALSINA / TRINIDAD JAMES,Excited,Fast Tempo,Urban,Male,20140104,266,0,0
+316,Carolina,PARMALEE,Empowering,Medium Tempo,Traditional,Male,20140104,215,0,0
+317,OMG,USHER featuring WILL.I.AM,Gritty,Medium Tempo,Urban,Male,20100515,257,1,1981
+318,Not For Long,B.O.B featuring TREY SONGZ,Sensual,Medium Tempo,Urban,Male,20150124,189,0,0
+319,Don't Tell 'Em,JEREMIH featuring YG,Defiant,Medium Tempo,Urban,Male,20140712,84,0,0
+320,S&M,RIHANNA,Energizing,Medium Tempo,Urban,Female,20110430,251,1,1988
+321,Pills N Potions,NICKI MINAJ,Sensual,Medium Tempo,Urban,Female,20140607,209,0,1982
+322,I Will Never Let You Down,RITA ORA,Defiant,Medium Tempo,Alternative & Punk,Male,20140816,275,0,1991
+323,Happy Little Pill,TROYE SIVAN,Energizing,Fast Tempo,Electronica,Male,20140809,256,0,1995
+324,EW!,JIMMY FALLON featuring WILL.I.AM,Energizing,Medium Tempo,Other,Male,20141025,272,0,0
+325,Superheroes,THE SCRIPT,Empowering,Medium Tempo,Pop,Male,20141004,280,0,0
+326,Part Of Me,KATY PERRY,Excited,Medium Tempo,Pop,Female,20120303,252,1,1984
+327,Geronimo,SHEPPARD,Yearning,Medium Tempo,Alternative & Punk,Mixed,20141220,496,0,0
+328,Ghost,ELLA HENDERSON,Excited,Medium Tempo,Pop,Female,20141115,211,0,1996
+329,We Are Tonight,BILLY CURRINGTON,Empowering,Medium Tempo,Traditional,Male,20140510,239,0,1973
+330,Ready To Run,ONE DIRECTION,Brooding,Medium Tempo,Pop,Male,20141122,823,0,1994
+331,When I Was Your Man,CHRIS JAMISON,Sophisticated,Slow Tempo,Pop,Male,20141227,0,0,1994
+332,Bailando,ENRIQUE IGLESIAS featuring DESCEMER BUENO & GENTE DE ZONA,Energizing,Medium Tempo,Urban,Male,20140517,0,0,1975
+333,Blame,CALVIN HARRIS featuring JOHN NEWMAN,Excited,Medium Tempo,Electronica,Male,20140927,222,0,1984
+334,Best Day Of My Life,AMERICAN AUTHORS,Defiant,Medium Tempo,Alternative & Punk,Male,20140104,326,0,0
+335,Follow Your Arrow,KACEY MUSGRAVES,Empowering,Slow Tempo,Traditional,Female,20140215,0,0,1988
+336,Neon Light,BLAKE SHELTON,Rowdy,Medium Tempo,Traditional,Male,20140906,220,0,1976
+337,I Wanna Love You,AKON featuring SNOOP DOGG,Sensual,Medium Tempo,Urban,Male,20061202,238,1,1973
+338,Welcome To New York,TAYLOR SWIFT,Excited,Medium Tempo,Pop,Female,20141108,82,0,1989
+339,Say Something,A GREAT BIG WORLD featuring CHRISTINA AGUILERA,Sentimental,Slow Tempo,Pop,Mixed,20140104,217,0,0
+340,What Kind Of Man,FLORENCE + THE MACHINE,Yearning,Medium Tempo,Alternative & Punk,Mixed,20150228,2836,0,0
+341,Baby It's Cold Outside,IDINA MENZEL duet with MICHAEL BUBLE,Sophisticated,Slow Tempo,Pop,Mixed,20141206,3985,0,0
+342,Money Maker,LUDACRIS featuring PHARRELL,Defiant,Medium Tempo,Urban,Male,20061028,225,1,1973
+343,I Mean It,G-EAZY featuring REMO,Cool,Medium Tempo,Urban,Male,20150117,211,0,0
+344,Riptide,VANCE JOY,Fiery,Medium Tempo,Alternative & Punk,Male,20140712,268,0,0
+345,Fight Night,MIGOS,Defiant,Medium Tempo,Urban,Male,20140726,214,0,1991
+346,Wasted,TIESTO featuring MATTHEW KOMA,Energizing,Medium Tempo,Pop,Male,20140621,296,0,1969
+347,My Boo,USHER & ALICIA KEYS,Sensual,Slow Tempo,Urban,Mixed,20041030,205,1,1981
+348,Somewhere In My Car,KEITH URBAN,Yearning,Medium Tempo,Traditional,Male,20140913,218,0,1967
+349,Show Me,KID INK featuring CHIS BROWN,Sensual,Medium Tempo,Urban,Male,20140104,214,0,1989
+350,0 To 100 / The Catch Up,DRAKE,Cool,Medium Tempo,Urban,Male,20140809,117,0,1986
+351,The Heart Wants What It Wants,SELENA GOMEZ,Aggressive,Fast Tempo,Pop,Male,20141122,247,0,1992
+352,Tennis Court,LORDE,Cool,Medium Tempo,Electronica,Female,20140607,232,0,1996
+353,Lay Me Down,SAM SMITH,Sophisticated,Medium Tempo,Urban,Male,20150221,250,0,1992
+354,X,CHRIS BROWN,Sensual,Slow Tempo,Pop,Mixed,20141004,201,0,1989
+355,American Kids,KENNY CHESNEY,Cool,Medium Tempo,Traditional,Male,20140705,178,0,1968
+356,Wake Me Up!,AVICII,Defiant,Medium Tempo,Rock,Male,20140104,211,0,1989
+357,Stuck On A Feeling,PRINCE ROYCE featuring SNOOP DOGG,Cool,Medium Tempo,Pop,Male,20150110,0,0,0
+358,Love Don't Die,THE FRAY,Urgent,Medium Tempo,Rock,Male,20140118,110,0,0
+359,6 Man,DRAKE,Cool,Medium Tempo,Urban,Male,20150307,357,0,1986
+360,Fireflies,OWL CITY,Sensual,Medium Tempo,Alternative & Punk,Male,20091107,225,1,1986
+361,A Guy Walks Into A Bar,TYLER FARR,Empowering,Medium Tempo,Traditional,Male,20150117,194,0,0
+362,Red Lights,TIESTO,Yearning,Medium Tempo,Rock,Male,20140329,228,0,1979
+363,Demons,IMAGINE DRAGONS,Yearning,Medium Tempo,Alternative & Punk,Male,20140104,237,0,1987
+364,23,"MIKE WILL MADE-IT feat MILEY CYRUS, WIZ KHALIFA & JUICY J",Cool,Medium Tempo,Urban,Mixed,20140104,321,0,1992
+365,Leave The Night On,SAM HUNT,Yearning,Medium Tempo,Traditional,Male,20140712,228,0,1984
+366,Booty,JENNIFER LOPEZ featuring IGGY AZALEA or PITBULL,Cool,Medium Tempo,Urban,Female,20141004,242,0,1969
+367,Ain't It Fun,PARAMORE,Rowdy,Medium Tempo,Alternative & Punk,Mixed,20140315,273,0,0
+368,I Don't Fuck With You,BIG SEAN featuring E-40,Defiant,Medium Tempo,Urban,Male,20141011,248,0,0
+369,Yellow Flicker Beat,LORDE,Excited,Fast Tempo,Electronica,Female,20141018,211,0,1996
+370,Irreplaceable,BEYONCE,Sensual,Slow Tempo,Urban,Female,20061216,300,1,1981
+371,Oceans (Where Feet May Fail),HILLSONG UNITED,Romantic,Medium Tempo,Other,Mixed,20140201,278,0,0
+372,Come With Me Now,KONGOS,Defiant,Medium Tempo,Alternative & Punk,Male,20140419,183,0,0
+373,Soldier,DAMIEN,Sensual,Medium Tempo,Urban,Male,20150103,300,0,0
+374,Replay,ZENDAYA,Excited,Fast Tempo,Pop,Female,20140104,211,0,1996
+375,Ordinary Love,U2,Empowering,Medium Tempo,Rock,Male,20140308,241,0,1960
+376,Body Language,KID INK featuring USHER & TINASHE,Cool,Slow Tempo,Urban,Male,20141025,178,0,1978
+377,Leave Your Lover,SAM SMITH,Easygoing,Medium Tempo,Urban,Male,20140607,304,0,1992
+378,Bo$$,FIFTH HARMONY,Energizing,Medium Tempo,Pop,Female,20140726,251,0,1993
+379,Love Me Like You Do,ELLIE GOULDING,Empowering,Slow Tempo,Electronica,Female,20150124,180,0,1986
+380,Locked Out Of Heaven,BRUNO MARS,Urgent,Fast Tempo,Pop,Male,20121222,190,1,1985
+381,Stronger (What Doesn't Kill You),KELLY CLARKSON,Excited,Medium Tempo,Pop,Female,20120218,2591,1,1982
+382,Can't Hold Us,MACKLEMORE & RYAN LEWIS featuring RAY DALTON,Energizing,Medium Tempo,Urban,Male,20130518,207,1,1983
+383,***Flawless,BEYONCE featuring NICKI MINAJ or CHIMAMANDA NGOZI ADICHIE,Defiant,Medium Tempo,Urban,Female,20140913,234,0,1981
+384,Stoner,YOUNG THUG,Cool,Medium Tempo,Urban,Male,20140301,253,0,0
+385,Party Rock Anthem,LMFAO featuring LAUREN BENNETT & GOONROCK,Excited,Fast Tempo,Pop,Mixed,20110716,196,1,1975
+386,Right Round,FLO RIDA,Energizing,Medium Tempo,Urban,Mixed,20090228,224,1,1979
+387,Try,COLBIE CAILLAT,Empowering,Medium Tempo,Pop,Female,20140726,482,0,1985
+388,Just Give Me A Reason,P!NK featuring NATE RUESS,Gritty,Medium Tempo,Pop,Mixed,20130427,223,1,1979
+389,Heroes (We Could Be),ALESSO featuring TOVE LO,Empowering,Medium Tempo,Pop,Mixed,20141018,274,0,0
+390,Sippin' On Fire,FLORIDA GEORGIA LINE,Upbeat,Fast Tempo,Traditional,Male,20141025,250,0,1987
+391,Move That Doh,"FUTURE featuring PHARRELL, PUSHA T & CASINO",Cool,Medium Tempo,Urban,Male,20140329,212,0,1981
+392,Magic,COLDPLAY,Sensual,Slow Tempo,Alternative & Punk,Male,20140322,163,0,1979
+393,Beg For It,IGGY AZALEA featuring MO,Cool,Medium Tempo,Pop,Female,20141108,173,0,0
+394,Tonight Looks Good On You,JASON ALDEAN,Yearning,Medium Tempo,Traditional,Male,20141011,215,0,1977
+395,Holy Grail,JAY Z featuring JUSTIN TIMBERLAKE,Energizing,Fast Tempo,Urban,Male,20140104,221,0,1981
+396,Whatever You Like,T.I.,Cool,Medium Tempo,Urban,Male,20080906,115,1,0
+397,Trap Queen,FETTY WAP,Energizing,Medium Tempo,Urban,Male,20150207,232,0,0
+398,Boom Clap,CHARLI XCX,Defiant,Medium Tempo,Alternative & Punk,Female,20140621,298,0,1992
+399,Wrecking Ball,MILEY CYRUS,Empowering,Medium Tempo,Pop,Female,20140104,326,0,1992
+400,Bed Of Lies,NICKI MINAJ featuring SKYLAR GREY,Yearning,Medium Tempo,Urban,Female,20141206,216,0,1982
+401,Crack A Bottle,EMINEM featuring DR. DRE & 50 CENT,Cool,Medium Tempo,Urban,Male,20090221,105,1,1979
+402,Good Girls,5 SECONDS OF SUMMER,Melancholy,Slow Tempo,Pop,Male,20140614,274,0,1996
+403,She Looks So Perfect,5 SECONDS OF SUMMER,Peaceful,Slow Tempo,Pop,Male,20140419,279,0,1996
+404,Feelin' It,SCOTTY McCREERY,Rowdy,Medium Tempo,Urban,Male,20141011,194,0,1993
+405,Compass,LADY ANTEBELLUM,Urgent,Medium Tempo,Traditional,Mixed,20140104,278,0,1986
+406,Later On,THE SWON BROTHERS,Empowering,Medium Tempo,Traditional,Male,20140830,224,0,0
+407,Or Nah,TY DOLLA $IGN featuring WIZ KHALIFA & DJ MUSTARD,Cool,Medium Tempo,Urban,Male,20140329,253,0,0
+408,Bartender,LADY ANTEBELLUM,Yearning,Medium Tempo,Traditional,Mixed,20140607,270,0,1986
+409,You & I (Nobody In The World),JOHN LEGEND,Melancholy,Slow Tempo,Urban,Male,20140726,251,0,1978
+410,TKO,JUSTIN TIMBERLAKE,Defiant,Medium Tempo,Pop,Male,20140104,44,0,1981
+411,Shades Of Cool,LANA DEL REY,Sophisticated,Slow Tempo,Electronica,Female,20140614,209,0,1985
+412,Sail,AWOLNATION,Cool,Medium Tempo,Alternative & Punk,Male,20140104,192,0,1978
+413,Til It's Gone,KENNY CHESNEY,Cool,Medium Tempo,Urban,Mixed,20141115,280,0,1968
+414,Shotgun Rider,TIM McGRAW,Gritty,Medium Tempo,Traditional,Mixed,20141018,226,0,1967
+415,Legend,DRAKE,Cool,Medium Tempo,Urban,Male,20150228,243,0,1986
+416,Drunk On A Plane,DIERKS BENTLEY,Upbeat,Medium Tempo,Traditional,Male,20140531,184,0,1975
+417,Rewind,RASCAL FLATTS,Empowering,Medium Tempo,Traditional,Male,20140201,191,0,0
+418,Midnight,COLDPLAY,Sensual,Medium Tempo,Alternative & Punk,Male,20140503,212,0,1979
+419,Kiss Kiss,CHRIS BROWN featuring T-PAIN,Cool,Medium Tempo,Urban,Male,20071110,272,1,1989
+420,Beautiful Girls,SEAN KINGSTON,Cool,Medium Tempo,Pop,Male,20070811,209,1,1990
+421,For The First Time In Forever,KRISTEN BELL & IDINA MENZEL,Lively,Medium Tempo,Soundtrack,Female,20140111,239,0,0
+422,Say You Do,DIERKS BENTLEY,Yearning,Medium Tempo,Traditional,Male,20150131,308,0,1975
+423,Hey Brother,AVICII,Brooding,Medium Tempo,Electronica,Male,20140104,198,0,1989
+424,Stronger,KANYE WEST,Cool,Medium Tempo,Urban,Male,20070929,166,1,1977
+425,We R Who We R,KE$HA,Urgent,Medium Tempo,Pop,Female,20101113,151,1,1987
+426,El Perdedor,ENRIQUE IGLESIAS featuring MARCO ANTONIO SOLIS,Sophisticated,Slow Tempo,Other,Male,20140208,230,0,1979
+427,Wild Wild Love,PITBULL featuring G.R.L.,Excited,Medium Tempo,Pop,Mixed,20140315,153,0,1970
+428,TiK ToK,KE$HA,Energizing,Medium Tempo,Pop,Female,20100102,107,1,1987
+429,Angel In Blue Jeans,TRAIN,Brooding,Medium Tempo,Rock,Male,20140927,273,0,0
+430,Live Your Life,T.I. featuring RIHANNA,Rowdy,Medium Tempo,Urban,Mixed,20081018,237,1,1981
+431,Bumpin' The Night,FLORIDA GEORGIA LINE,Upbeat,Fast Tempo,Traditional,Male,20141018,19,0,1987
+432,m.A.A.d City,KENDRICK LAMAR featuring MC EIHT,Defiant,Medium Tempo,Urban,Male,20140215,0,0,0
+433,One Last Time,ARIANA GRANDE,Excited,Medium Tempo,Pop,Female,20150228,306,0,1993
+434,CoCo,O.T. GENASIS,Sensual,Medium Tempo,Jazz,Male,20141206,329,0,0
+435,Shake It Off,TAYLOR SWIFT,Excited,Medium Tempo,Pop,Female,20140906,286,1,1989
+436,Firework,KATY PERRY,Empowering,Medium Tempo,Pop,Female,20101218,252,1,1984
+437,Give Me Everything,"PITBULL featuring NE-YO, AFROJACK & NAYER",Energizing,Fast Tempo,Urban,Mixed,20110709,244,1,1970
+438,They Don't Know,RICO LOVE,Cool,Medium Tempo,Urban,Male,20140208,271,0,1982
+439,Summer,CALVIN HARRIS,Defiant,Medium Tempo,Alternative & Punk,Male,20140405,343,0,1984
+440,HeadBand,B.O.B featuring 2 CHAINZ,Defiant,Medium Tempo,Urban,Male,20140104,239,0,0
+441,Foreign,TREY SONGZ,Defiant,Medium Tempo,Urban,Male,20140719,202,0,1984
+442,I Got A Car,GEORGE STRAIT,Empowering,Medium Tempo,Traditional,Male,20140614,191,0,1952
+443,Trumpets,JASON DERULO,Lively,Fast Tempo,Pop,Male,20140614,190,0,0
+444,"Mary, Did You Know?",PENTATONIX,Melancholy,Medium Tempo,Pop,Mixed,20141206,0,0,1992
+445,Poker Face,LADY GAGA,Energizing,Medium Tempo,Pop,Female,20090411,231,1,1986
+446,Thrift Shop,MACKLEMORE & RYAN LEWIS featuring WANZ,Cool,Slow Tempo,Urban,Male,20130202,229,1,1983
+447,Feelin' Myself,"WILL.I.AM featuring MILEY CYRUS, FRENCH MONTANA, WIZ KHALIFA",Defiant,Medium Tempo,Urban,Male,20140426,190,0,1990
+448,Disturbia,RIHANNA,Urgent,Medium Tempo,Urban,Female,20080823,235,1,1988
+449,Ridin',CHAMILLIONAIRE featuring KRAYZIE BONE,Cool,Medium Tempo,Urban,Male,20060603,187,1,1979
+450,Break Free,ARIANA GRANDE featuring ZEDD,Excited,Medium Tempo,Pop,Mixed,20140719,249,0,1992
+451,E.T.,KATY PERRY featuring KANYE WEST,Energizing,Medium Tempo,Pop,Mixed,20110409,252,1,1984
+452,Guts Over Fear,EMINEM featuring SIA,Defiant,Medium Tempo,Urban,Mixed,20140913,189,0,1979
+453,All I Want For Christmas Is You,MARIAH CAREY,Empowering,Medium Tempo,Urban,Female,20140104,183,0,1970
+454,Ready Set Roll,CHASE RICE,Yearning,Medium Tempo,Traditional,Male,20140621,0,0,1985
+455,What Goes Around...,JUSTIN TIMBERLAKE,Energizing,Fast Tempo,Pop,Male,20070303,346,1,1981
+456,Loyal,CHRIS BROWN featuring LIL WAYNE & FRENCH MONTANA or & TOO SH,Defiant,Medium Tempo,Urban,Male,20140201,256,0,1989
+457,"Honey, I'm Good.",ANDY GRAMMER,Excited,Medium Tempo,Pop,Male,20150228,225,0,1983
+458,Achy Breaky 2,BUCK 22 featuring BILLY RAY CYRUS,Defiant,Medium Tempo,Traditional,Male,20140301,60,0,0
+459,Have Yourself A Merry Little Christmas,SAM SMITH,Melancholy,Slow Tempo,Urban,Male,20141227,182,0,1992
+460,My Love,JUSTIN TIMBERLAKE featuring T.I.,Cool,Medium Tempo,Pop,Male,20061111,299,1,1981
+461,Try Me,DEJ LOAF,Sensual,Medium Tempo,Urban,Female,20141108,202,0,0
+462,19 You + Me,DAN + SHAY,Empowering,Medium Tempo,Traditional,Male,20140118,220,0,0
+463,Lettin' The Night Roll,JUSTIN MOORE,Yearning,Medium Tempo,Traditional,Male,20140308,278,0,1984
+464,Take A Bow,RIHANNA,Sensual,Slow Tempo,Urban,Female,20080524,234,1,1988
+465,Now & Forever,DRAKE,Cool,Medium Tempo,Urban,Male,20150307,321,0,1986
+466,Radio,DARIUS RUCKER,Rowdy,Medium Tempo,Traditional,Male,20140104,194,0,1966
+467,We Were Us,KEITH URBAN & MIRANDA LAMBERT,Upbeat,Medium Tempo,Traditional,Mixed,20140104,0,0,0
+468,Blank Space,TAYLOR SWIFT,Sensual,Slow Tempo,Pop,Female,20141129,252,1,1989
+469,When She Says Baby,JASON ALDEAN,Yearning,Medium Tempo,Traditional,Male,20140104,183,0,1977
+470,In Your Arms,NICO & VINZ,Yearning,Medium Tempo,Pop,Male,20141101,211,0,1990
+471,Sweet Annie,ZAC BROWN BAND,Empowering,Slow Tempo,Traditional,Male,20140104,160,0,0
+472,Just The Way You Are,BRUNO MARS,Cool,Medium Tempo,Pop,Male,20101002,222,1,1985
+473,Temperature,SEAN PAUL,Energizing,Medium Tempo,Other,Male,20060401,187,1,1973
+474,Believe Me,LIL WAYNE featuring DRAKE,Cool,Medium Tempo,Urban,Male,20140614,244,0,1982
+475,Break The Rules,CHARLI XCX,Defiant,Medium Tempo,Alternative & Punk,Female,20141227,194,0,1992
+476,Problem,ARIANA GRANDE featuring IGGY AZALEA,Defiant,Fast Tempo,Alternative & Punk,Male,20140517,198,0,1994
+477,Good Kisser,USHER,Cool,Slow Tempo,Urban,Male,20140524,237,0,1978
+478,Moves Like Jagger,MAROON 5 featuring CHRISTINA AGUILERA,Excited,Medium Tempo,Pop,Male,20110910,215,1,1979
+479,Where It's At,DUSTIN LYNCH,Upbeat,Medium Tempo,Traditional,Male,20140503,259,0,1985
+480,Rather Be,CLEAN BANDIT featuring JESS GLYNNE,Brooding,Medium Tempo,Alternative & Punk,Male,20140628,201,0,0
+481,42196,BEYONCE,Aggressive,Medium Tempo,Electronica,Male,20141213,195,0,1981
+482,Big Girls Don't Cry,FERGIE,Empowering,Medium Tempo,Pop,Female,20070908,259,1,1975
+483,Story Of My Life,ONE DIRECTION,Empowering,Slow Tempo,Pop,Male,20140104,219,0,1994
+484,Run It!,CHRIS BROWN,Energizing,Medium Tempo,Urban,Male,20051126,249,1,1989
+485,I Don't Mind,USHER featuring JUICY J,Sensual,Medium Tempo,Urban,Male,20141206,187,0,1978
+486,It Won't Stop,SEVYN STREETER featuring CHRIS BROWN,Excited,Medium Tempo,Urban,Mixed,20140104,0,0,0
+487,Lonely Tonight,BLAKE SHELTON featuring ASHLEY MONROE,Empowering,Slow Tempo,Pop,Female,20141220,316,0,0
+488,Lean Back,TERROR SQUAD,Cool,Slow Tempo,Urban,Mixed,20040821,384,1,1970
+489,Just Gettin' Started,JASON ALDEAN,Gritty,Medium Tempo,Traditional,Male,20141018,230,0,1977
+490,Stay,FLORIDA GEORGIA LINE,Empowering,Medium Tempo,Traditional,Male,20140104,5839,0,1987
+491,Something Big,SHAWN MENDES,Defiant,Medium Tempo,Pop,Male,20141122,214,0,1999
+492,Dirt,FLORIDA GEORGIA LINE,Yearning,Medium Tempo,Traditional,Male,20140726,267,0,1987
+493,Burn,USHER,Sensual,Medium Tempo,Urban,Male,20040522,257,1,1978
+494,The Christmas Song (Merry Christmas To You),NAT KING COLE,Romantic,Medium Tempo,Pop,Male,20140104,178,0,1919
+495,Ten Feet Tall,AFROJACK featuring WRABEL,Empowering,Medium Tempo,Electronica,Male,20140719,324,0,0
+496,Check On It,BEYONCE featuring SLIM THUG,Energizing,Medium Tempo,Urban,Mixed,20060204,399,1,1981
+497,No Type,RAE SREMMURD,Defiant,Medium Tempo,Urban,Male,20141011,880,0,0
+498,2 On,TINASHE featuring SCHOOLBOY Q,Cool,Medium Tempo,Pop,Mixed,20140524,0,0,0
+499,Prayer In C,LILLYWOOD & ROBIN SCHULZ,Sentimental,Slow Tempo,Alternative & Punk,Mixed,20141220,214,0,0
+500,Girl Crush,LITTLE BIG TOWN,Empowering,Medium Tempo,Traditional,Mixed,20150221,6840,0,1971
+501,Afire Love,ED SHEERAN,Yearning,Medium Tempo,Pop,Male,20140705,236,0,1991
+502,Slow Down,SELENA GOMEZ,Energizing,Medium Tempo,Pop,Female,20140104,290,0,1992
+503,I'm Not Gonna Miss You,GLEN CAMPBELL,Melancholy,Medium Tempo,Pop,Male,20141101,248,0,0
+504,Come Get It Bae,PHARRELL,Energizing,Medium Tempo,Pop,Male,20140524,197,0,1973
+505,Team,LORDE,Excited,Medium Tempo,Electronica,Female,20140104,227,0,1996
+506,Say It Right,NELLY FURTADO,Energizing,Medium Tempo,Pop,Female,20070224,205,1,1978
+507,Song About A Girl,ERIC PASLAY,Yearning,Medium Tempo,Traditional,Male,20140621,0,0,1983
+508,Immortals,FALL OUT BOY,Urgent,Medium Tempo,Alternative & Punk,Male,20150207,202,0,1984
+509,Shower,BECKY G,Empowering,Medium Tempo,Pop,Female,20140621,238,0,1997
+510,Come Join The Murder,THE WHITE BUFFALO & THE FOREST RANGERS,Melancholy,Medium Tempo,Rock,Male,20141227,206,0,0
+511,The Walker,FITZ AND THE TANTRUMS,Urgent,Fast Tempo,Alternative & Punk,Mixed,20140315,241,0,0
+512,Trophies,YOUNG MONEY featuring DRAKE,Sensual,Medium Tempo,Urban,Male,20140322,0,0,1986
+513,La La La,NAUGHTY BOY featuring SAM SMITH,Sensual,Medium Tempo,Urban,Male,20140308,214,0,1992
+514,Lookin' For That Girl,TIM McGRAW,Empowering,Medium Tempo,Traditional,Male,20140405,266,0,1967
+515,Up All Night,JON PARDI,Rowdy,Medium Tempo,Traditional,Male,20140104,211,0,1985
+516,Take Me To The Church,MATT McANDREW,Defiant,Medium Tempo,Pop,Male,20141206,231,0,1990
+517,Where You Belong,THE WEEKND,Sensual,Medium Tempo,Alternative & Punk,Male,20150228,147,0,0
+518,The Heart Of Dixie,DANIELLE BRADBERY,Empowering,Slow Tempo,Traditional,Female,20140111,3064,0,0
+519,We Are Young,FUN. featuring JANELLE MONAE,Brooding,Slow Tempo,Pop,Mixed,20120317,4,1,1985
+520,Really Don't Care,DEMI LOVATO featuring CHER LLOYD,Excited,Medium Tempo,Pop,Female,20140628,209,0,1992
+521,Can't Raise A Man,K. MICHELLE,Sensual,Medium Tempo,Urban,Female,20140215,217,0,1982
+522,Secrets,MARY LAMBERT,Excited,Medium Tempo,Pop,Female,20140920,232,0,0
+523,Love Runs Out,ONEREPUBLIC,Rowdy,Medium Tempo,Alternative & Punk,Male,20140503,77,0,1979
+524,Energy,DRAKE,Cool,Medium Tempo,Urban,Male,20150228,321,0,1986
+525,Make It Rain,ED SHEERAN,Rowdy,Medium Tempo,Alternative & Punk,Male,20141220,220,0,1991
+526,I'm Ready,AJR,Melancholy,Slow Tempo,Traditional,Female,20140621,238,0,0
+527,Sugar,MAROON 5,Rowdy,Fast Tempo,Rock,Male,20150131,129,0,1981
+528,18,ONE DIRECTION,Yearning,Medium Tempo,Pop,Male,20141129,76,0,1994
+529,Shut Up And Dance,WALK THE MOON,Defiant,Medium Tempo,Alternative & Punk,Male,20141213,252,0,0
+530,The Way You Move,OUTKAST feat SLEEPY BROWN,Energizing,Medium Tempo,Pop,Male,20040214,79,1,1975
+531,Who You Love,JOHN MAYER featuring KATY PERRY,Empowering,Slow Tempo,Pop,Mixed,20140104,278,0,0
+532,Beat Of The Music,BRETT ELDREDGE,Upbeat,Medium Tempo,Traditional,Male,20140222,308,0,1986
+533,Let Her Go,PASSENGER,Yearning,Fast Tempo,Alternative & Punk,Male,20140104,235,0,0
+534,Hold It Against Me,BRITNEY SPEARS,Excited,Fast Tempo,Pop,Female,20110129,138,1,1981
+535,Ain't Worth The Whiskey,COLE SWINDELL,Empowering,Medium Tempo,Traditional,Male,20150117,251,0,1983
+536,Hideaway,KIESZA,Energizing,Medium Tempo,Electronica,Female,20140802,248,0,1989
+537,Lolly,MAEJOR ALI featuring JUICY J & JUSTIN BIEBER,Defiant,Medium Tempo,Urban,Male,20140111,673,0,0
+538,Title,MEGHAN TRAINOR,Yearning,Medium Tempo,Pop,Female,20150110,0,0,1993
+539,On Top Of The World,IMAGINE DRAGONS,Yearning,Medium Tempo,Alternative & Punk,Male,20140215,0,0,1987
+540,Hold You Down,"DJ KHALED feat CHRIS BROWN, AUGUST ALSINA, FUTURE & JEREMIH",Sensual,Slow Tempo,Urban,Mixed,20140920,238,0,1989
+541,Glamorous,FERGIE featuring LUDACRIS,Energizing,Medium Tempo,Pop,Mixed,20070324,279,1,1975
+542,Feeling Myself,NICKI MINAJ featuring BEYONCE,Cool,Medium Tempo,Urban,Female,20150103,261,0,1982
+543,Jealous,NICK JONAS,Excited,Medium Tempo,Pop,Male,20140927,352,0,1992
+544,Young Girls,BRUNO MARS,Empowering,Medium Tempo,Pop,Male,20140118,222,0,1985
+545,Bottoms Up,BRANTLEY GILBERT,Yearning,Medium Tempo,Traditional,Male,20140104,243,0,1985
+546,Out Of The Woods,TAYLOR SWIFT,Defiant,Medium Tempo,Pop,Female,20141101,374,0,1989
+547,Can't Remember To Forget You,SHAKIRA featuring RIHANNA,Urgent,Fast Tempo,Pop,Female,20140201,272,0,1977
+548,Everything I Shouldn't Be Thinking About,THOMPSON SQUARE,Defiant,Medium Tempo,Alternative & Punk,Male,20140201,212,0,0
+549,XO,BEYONCE,Excited,Fast Tempo,Urban,Female,20140104,221,0,1981
+550,Call Me Maybe,CARLY RAE JEPSEN,Excited,Medium Tempo,Pop,Female,20120623,203,1,1985
+551,Ayo,CHRIS BROWN & TYGA,Sensual,Slow Tempo,Urban,Male,20150124,211,0,1989
+552,Beachin',JAKE OWEN,Yearning,Medium Tempo,Traditional,Male,20140412,5434,0,1981
+553,Chasing The Sun,HILARY DUFF,Empowering,Medium Tempo,Rock,Male,20140816,0,0,1987
+554,The Man,ALOE BLACC,Yearning,Medium Tempo,Urban,Male,20140118,201,0,1979
+555,Low,FLO RIDA featuring T-PAIN,Brooding,Medium Tempo,Alternative & Punk,Male,20080105,212,1,1979
+556,Lollipop,LIL WAYNE featuring STATIC MAJOR,Cool,Medium Tempo,Urban,Male,20080503,260,1,1982
+557,Rockin' Around The Christmas Tree,BRENDA LEE,Upbeat,Medium Tempo,Traditional,Female,20140104,334,0,1944
+558,Laffy Taffy,D4L,Energizing,Medium Tempo,Urban,Male,20060114,237,1,1983
+559,Ultraviolence,LANA DEL REY,Empowering,Medium Tempo,Electronica,Female,20140621,209,0,1985
+560,Black Widow,IGGY AZALEA featuring RITA ORA,Excited,Fast Tempo,Urban,Female,20140719,212,0,0
+561,Everything Is AWESOME!!!,TEGAN AND SARA featuring THE LONELY ISLAND,Excited,Fast Tempo,Soundtrack,Mixed,20140301,278,0,0
+562,Brave,SARA BAREILLES,Excited,Fast Tempo,Pop,Female,20140104,207,0,1979
+563,Confessions Part II,USHER,Sensual,Medium Tempo,Urban,Male,20040724,205,1,1978
+564,Seen It All,JEEZY featuring JAY Z,Defiant,Medium Tempo,Urban,Male,20140920,145,0,0
+565,Part II (On The Run),JAY Z featuring BEYONCE,Energizing,Medium Tempo,Urban,Mixed,20140308,3962,0,0
+566,Hips Don't Lie,SHAKIRA featuring WYCLEF JEAN,Fiery,Medium Tempo,Urban,Mixed,20060617,41,1,1977
+567,Up Down (Do This All Day),T-PAIN featuring B.O.B,Energizing,Medium Tempo,Urban,Male,20140104,407,0,1985
+568,Candy Shop,50 CENT featuring OLIVIA,Cool,Slow Tempo,Urban,Mixed,20050305,317,1,1975
+569,Play It Again,LUKE BRYAN,Empowering,Medium Tempo,Traditional,Male,20140329,217,0,1976
+570,Sleeping With A Friend,NEON TREES,Defiant,Medium Tempo,Alternative & Punk,Male,20140315,247,0,0
+571,Keep Them Kisses Comin',CRAIG CAMPBELL,Gritty,Medium Tempo,Traditional,Male,20140517,229,0,0
+572,Glory And Gore,LORDE,Cool,Medium Tempo,Electronica,Female,20140308,182,0,1996
+573,FourFiveSeconds,RIHANNA & KANYE WEST & PAUL McCARTNEY,Empowering,Medium Tempo,Pop,Mixed,20150207,219,0,1981
+574,Get On Your Knees,NICKI MINAJ featuring ARIANA GRANDE,Energizing,Fast Tempo,Urban,Female,20150103,0,0,1982
+575,My Eyes,BLAKE SHELTON featuring GWEN SEBASTIAN,Empowering,Medium Tempo,Traditional,Mixed,20140517,258,0,0
+576,Radioactive,IMAGINE DRAGONS,Brooding,Medium Tempo,Alternative & Punk,Male,20140104,241,0,1979
+577,Bad Bitch,FRENCH MONTANA featuring JEREMIH,Energizing,Medium Tempo,Urban,Male,20150110,201,0,0
+578,Royals,LORDE,Cool,Medium Tempo,Electronica,Female,20131012,320,1,1996
+579,Heart Attack,ENRIQUE IGLESIAS,Sensual,Slow Tempo,Other,Male,20140111,228,0,1975
+580,Blurred Lines,ROBIN THICKE featuring T.I. & PHARRELL,Energizing,Medium Tempo,Pop,Male,20130622,14,1,1977
+581,Safe And Sound,CAPITAL CITIES,Excited,Medium Tempo,Alternative & Punk,Male,20140104,0,0,0
+582,Slave To The Rhythm,MICHAEL JACKSON,Fiery,Medium Tempo,Urban,Male,20140607,238,0,1958
+583,Black And Yellow,WIZ KHALIFA,Cool,Medium Tempo,Urban,Male,20110219,3662,1,1987
+584,Chainsaw,THE BAND PERRY,Yearning,Medium Tempo,Traditional,Mixed,20140531,1158,0,1983
+585,I Believe,FANTASIA,Empowering,Medium Tempo,Urban,Female,20040710,205,1,1984
+586,Wild Life,JACK & JACK,Defiant,Medium Tempo,Pop,Male,20140823,41,0,0
+587,Masterpiece,JESSIE J,Energizing,Medium Tempo,Pop,Female,20150103,199,0,1988
+588,Sexy And I Know It,LMFAO,Aggressive,Medium Tempo,Urban,Male,20120107,260,1,1975
+589,Adore You,MILEY CYRUS,Empowering,Medium Tempo,Pop,Female,20140111,1351,0,1992
+590,Explosions,ELLIE GOULDING,Empowering,Slow Tempo,Electronica,Female,20140301,301,0,1986
+591,I Bet My Life,IMAGINE DRAGONS,Yearning,Medium Tempo,Alternative & Punk,Male,20141115,235,0,1979
+592,I Won,FUTURE featuring KANYE WEST,Sensual,Slow Tempo,Urban,Male,20140510,231,0,1977
+593,My Hitta,YG X JEEZY X RICH HOMIE QUAN,Cool,Medium Tempo,Urban,Male,20140104,227,0,0
+594,Not Afraid,EMINEM,Energizing,Medium Tempo,Urban,Male,20100522,259,1,1974
+595,Classic,MKTO,Energizing,Medium Tempo,Pop,Male,20140301,297,0,0
+596,Makes Me Wonder,MAROON5,Energizing,Medium Tempo,Pop,Male,20070512,226,1,1979
+597,Girl In A Country Song,MADDIE & TAE,Upbeat,Medium Tempo,Traditional,Female,20140816,212,0,0
+598,Buy U A Drank (Shawty Snappin'),T-PAIN featuring YUNG JOC,Energizing,Fast Tempo,Urban,Male,20070526,243,1,1989
+599,I Put A Spell On You,ANNIE LENNOX,Gritty,Medium Tempo,Pop,Female,20150228,200,0,1954
+600,Crank That (Soulja Boy),SOULJA BOY,Defiant,Slow Tempo,Urban,Male,20070915,152,1,1990
+601,6 God,DRAKE,Cool,Medium Tempo,Urban,Male,20150307,357,0,1986
+602,Hollaback,GWEN STEFANI,Defiant,Medium Tempo,Pop,Female,20050507,77,1,1969
+603,Drink To That All Night,JERROD NIEMANN,Upbeat,Medium Tempo,Traditional,Male,20140118,267,0,0
+604,Look At You,BIG & RICH,Empowering,Medium Tempo,Traditional,Male,20140920,235,0,0
+605,Love In This Club,USHER featuring YOUNG JEEZY,Sensual,Medium Tempo,Urban,Male,20080315,198,1,1978
+606,Burn,ELLIE GOULDING,Energizing,Medium Tempo,Electronica,Female,20140104,255,0,1986
+607,Shots,IMAGINE DRAGONS,Yearning,Medium Tempo,Alternative & Punk,Male,20150214,523,0,1979
+608,Mmm Yeah,AUSTIN MAHONE featuring PITBULL,Excited,Medium Tempo,Urban,Male,20140208,541,0,0
+609,Inside Your Heaven,CARRIE UNDERWOOD,Empowering,Medium Tempo,Traditional,Female,20050702,205,1,1983
+610,When I Was Your Man,BRUNO MARS,Sophisticated,Medium Tempo,Pop,Male,20130420,223,1,1985
+611,Chillin' It,COLE SWINDELL,Yearning,Medium Tempo,Traditional,Male,20140104,206,0,1983
+612,Jungle,JAMIE N COMMONS & X AMBASSADORS,Defiant,Medium Tempo,Rock,Male,20140628,235,0,0
+613,Boom Boom Pow,THE BLACK EYED PEAS,Cool,Medium Tempo,Urban,Mixed,20090418,41,1,1975
+614,Last Friday Night (T.G.I.F.),KATY PERRY,Excited,Medium Tempo,Pop,Female,20110827,252,1,1984
+615,Rolling In The Deep,ADELE,Yearning,Medium Tempo,Pop,Female,20110521,124,1,1988
+616,All Me,DRAKE featuring 2 CHAINZ & BIG SEAN,Defiant,Medium Tempo,Urban,Male,20140104,163,0,1986
+617,Get Me Some Of That,THOMAS RHETT,Yearning,Medium Tempo,Traditional,Male,20140125,220,0,1990
+618,How I Feel,FLO RIDA,Excited,Medium Tempo,Urban,Male,20140125,258,0,1979
+619,Slow Motion,TREY SONGZ,Sensual,Medium Tempo,Urban,Male,20150207,239,0,1984
+620,Heaven,JAKE WORTHINGTON,Empowering,Slow Tempo,Traditional,Male,20140531,208,0,0
+621,California Gurls,KATY PERRY featuring SNOOP DOGG,Excited,Medium Tempo,Pop,Mixed,20100619,235,1,1984
+622,Calm Down,BUSTA RHYMES featuring EMINEM,Defiant,Medium Tempo,Urban,Male,20140719,211,0,1972
+623,Like A G6,FAR*EAST MOVEMENT featuring CATARACS & DEV,Sensual,Medium Tempo,Urban,Male,20101030,309,1,1981
+624,We Dem Boyz,WIZ KHALIFA,Energizing,Medium Tempo,Urban,Male,20140503,238,0,1987
+625,Headlights,EMINEM featuring NATE RUESS,Defiant,Medium Tempo,Urban,Male,20140329,284,0,1972
+626,Work Bitch,BRITNEY SPEARS,Defiant,Medium Tempo,Pop,Female,20140118,255,0,1981
+627,I Gotta Feeling,THE BLACK EYED PEAS,Empowering,Medium Tempo,Urban,Mixed,20090711,174,1,1977
+628,Mean To Me,BRETT ELDREDGE,Yearning,Medium Tempo,Traditional,Male,20141122,659,0,1986
+629,Uma Thurman,FALL OUT BOY,Excited,Fast Tempo,Alternative & Punk,Male,20150131,1300,0,1984
+630,The Blower's Daughter,MATT McANDREW,Romantic,Medium Tempo,Pop,Male,20141220,881,0,1990
+631,First Love,JENNIFER LOPEZ,Peaceful,Slow Tempo,Pop,Female,20140705,238,0,1970
+632,No One,ALICIA KEYS,Sophisticated,Slow Tempo,Urban,Female,20071201,157,1,1981
+633,She Came To Give It To You,USHER featuring NICKI MINAJ,Energizing,Medium Tempo,Urban,Mixed,20140913,209,0,1982
+634,Wasted Love,MATT McANDREW,Sentimental,Slow Tempo,Pop,Male,20150103,226,0,1990
